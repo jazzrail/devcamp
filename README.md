@@ -21,6 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* test from AW
+* test from AW. Now added this bit for another test
 
 * ...
