@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * test from AW. Now added this bit for another test
 
-* ...
+* I created this on my Macbook. In Github it's called devcamp. The directory structure is DEV_CAMP/DevcampPortfolio.  The devcamp-portfolio repo on GitHUB is the origianl (old) one I created on my IMac.  Be careful.
